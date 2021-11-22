@@ -17,6 +17,16 @@
             </dependency>
             <dependency>
                 <groupId>cloud.quinimbus</groupId>
+                <artifactId>config-api</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
+                <artifactId>config-cdi</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
                 <artifactId>tools</artifactId>
                 <version>0.1-SNAPSHOT</version>
             </dependency>
