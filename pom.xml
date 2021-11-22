@@ -12,6 +12,11 @@
             <!-- Quinimbus Framework -->
             <dependency>
                 <groupId>cloud.quinimbus</groupId>
+                <artifactId>common-annotations</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
                 <artifactId>tools</artifactId>
                 <version>0.1-SNAPSHOT</version>
             </dependency>
@@ -27,6 +32,11 @@
             <dependency>
                 <groupId>com.fasterxml.jackson.core</groupId>
                 <artifactId>jackson-databind</artifactId>
+                <version>2.13.0</version>
+            </dependency>
+            <dependency>
+                <groupId>com.fasterxml.jackson.dataformat</groupId>
+                <artifactId>jackson-dataformat-yaml</artifactId>
                 <version>2.13.0</version>
             </dependency>
             <dependency>
