@@ -27,6 +27,11 @@
             </dependency>
             <dependency>
                 <groupId>cloud.quinimbus</groupId>
+                <artifactId>imagine-api</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
                 <artifactId>tools</artifactId>
                 <version>0.1-SNAPSHOT</version>
             </dependency>
