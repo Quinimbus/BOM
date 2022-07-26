@@ -27,12 +27,57 @@
             </dependency>
             <dependency>
                 <groupId>cloud.quinimbus</groupId>
+                <artifactId>config-core</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
+                <artifactId>config-microprofile</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
                 <artifactId>config-cdi</artifactId>
                 <version>0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>cloud.quinimbus</groupId>
                 <artifactId>imagine-api</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
+                <artifactId>magic-annotations</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
+                <artifactId>magic-generator</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
+                <artifactId>persistence-cdi</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
+                <artifactId>persistence-core</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
+                <artifactId>persistence-mongo</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
+                <artifactId>rest-core</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
+                <artifactId>rest-crud</artifactId>
                 <version>0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
