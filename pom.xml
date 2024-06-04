@@ -57,6 +57,11 @@
             </dependency>
             <dependency>
                 <groupId>cloud.quinimbus</groupId>
+                <artifactId>persistence-api</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
                 <artifactId>persistence-cdi</artifactId>
                 <version>0.1-SNAPSHOT</version>
             </dependency>
@@ -68,6 +73,11 @@
             <dependency>
                 <groupId>cloud.quinimbus</groupId>
                 <artifactId>persistence-mongo</artifactId>
+                <version>0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>cloud.quinimbus</groupId>
+                <artifactId>quarkus-integration-persistence</artifactId>
                 <version>0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
