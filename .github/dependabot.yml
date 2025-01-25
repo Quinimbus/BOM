@@ -9,7 +9,7 @@ updates:
         patterns:
           - org.junit.jupiter*
       jackson:
-        pattern:
+        patterns:
           - com.fasterxml.jackson*
   - package-ecosystem: github-actions
     directory: /
