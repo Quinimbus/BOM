@@ -5,6 +5,7 @@
     <artifactId>bom</artifactId>
     <version>0.2-SNAPSHOT</version>
     <name>QuiNimbus BOM</name>
+    <description>Shared Quinimbus Dependencies</description>
     <packaging>pom</packaging>
     
     <dependencyManagement>
