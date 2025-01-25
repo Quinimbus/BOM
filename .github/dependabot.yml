@@ -4,6 +4,13 @@ updates:
     directory: /
     schedule:
       interval: daily
+    groups:
+      junit:
+        patterns:
+          - org.junit.jupiter*
+      jackson:
+        pattern:
+          - com.fasterxml.jackson*
   - package-ecosystem: github-actions
     directory: /
     schedule:
