@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     
     <properties>
-        <jackson.version>2.18.2</jackson.version>
+        <jackson.version>2.19.2</jackson.version>
         <junit.version>5.13.4</junit.version>
     </properties>
     
