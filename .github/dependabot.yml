@@ -11,6 +11,9 @@ updates:
       jackson:
         patterns:
           - com.fasterxml.jackson*
+    ignore:
+      - dependency-name: "com.fasterxml.jackson:*"
+        update-types: ["version-update:semver-major", "version-update:semver-minor"]
   - package-ecosystem: github-actions
     directory: /
     schedule:
